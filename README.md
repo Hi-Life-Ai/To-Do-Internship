@@ -29,3 +29,10 @@ Follow the instruction below step by step.
 
 > 1. GitHub
 > 2. Visual Studio Code with GitHub Account
+
+
+## Testing if Everything is working
+
+Go to your GitHub page and Create a new Repo called **GIT-Test**
+
+Make sure to **ADD a README File.**
