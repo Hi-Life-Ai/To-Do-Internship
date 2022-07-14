@@ -14,3 +14,16 @@ Follow the instruction below step by step.
 >    > 1. Live Server
 >    > 2. Prettier -Code Formatter
 >    > 3. HTML CSS Support
+>
+> 3. Git **_(free and open source distributed version control system software)_**
+>
+> > Default Installation
+>
+> > To make sure Git is Installed Properly, **Open Command Prompt**
+
+## Logging in
+
+**_Log in to the following Application/Website (Create an account if you haven't yet)_**
+
+> 1. GitHub
+> 2. Visual Studio Code with GitHub Account
