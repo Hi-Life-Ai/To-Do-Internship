@@ -20,8 +20,9 @@ Follow the instruction below step by step.
 >    > 1. Follow Default Installation
 >    > 2. To make sure Git is Installed Properly
 >    >    > **Open Command Prompt**
+    ```Shell
     git --version
-
+    ```
 ## Logging in
 
 **_Log in to the following Application/Website (Create an account if you haven't yet)_**
