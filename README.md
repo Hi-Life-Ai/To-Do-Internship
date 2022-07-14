@@ -46,3 +46,6 @@ Follow the next steps in you local Command Prompt
 > 3. Make sure there is no folder/directory already called `GIT-Test`.
 > 4. Now, to Clone the Repo to your local machine using the HTTPS Link provided in your GitHub Repo
 > Run `git clone "your HTTPS repo link"`
+> 5. To Navigate to the Repo in local Machine
+> Run `cd GIT-Test`
+> Now to open
