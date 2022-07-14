@@ -36,3 +36,13 @@ Follow the instruction below step by step.
 Go to your GitHub page and Create a new Repo called `GIT-Test`
 
 Make sure to **ADD a README File.**
+
+Follow the next steps in you local Command Prompt
+
+> 1. To Navigate to My Documents
+> Run `cd Documents`
+> 2. To view the file and folder in the Directory
+> Run `dir`
+> 3. Make sure there is no folder/directory already called `GIT-Test`.
+> 4. Now, to Clone the Repo to your local machine using the HTTPS Link provided in your GitHub Repo
+> Run `git clone "your HTTPS repo link"`
