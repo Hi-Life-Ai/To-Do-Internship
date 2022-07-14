@@ -39,7 +39,7 @@ Make sure to **ADD a README File.**
 
 Follow the next steps in you local Command Prompt
 
-> To Navigate to My Documents
+> 1. To Navigate to My Documents
 > Run `cd Documents`
 > 2. To view the file and folder in the Directory
 > Run `dir`
