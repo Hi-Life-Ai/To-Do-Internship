@@ -56,4 +56,5 @@ Follow the next steps in you local Command Prompt
 Go to your Command Prompt and Run the Following commands
 
     git config --global user.name "Your GitHub User Name"
+
     git config --global user.email "Your email Address"
