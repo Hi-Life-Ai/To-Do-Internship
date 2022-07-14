@@ -50,3 +50,10 @@ Follow the next steps in you local Command Prompt
 > Run `cd GIT-Test`
 > Now to open the Repo in Visual Studio Code,
 > Run `code .`
+
+## Linking your VS code with GitHub through Git
+
+Go to your Command Prompt and Run the Following commands
+
+    `git config --global user.name "Your GitHub User Name"` 
+    `git config --global user.email "Your email Address"`
