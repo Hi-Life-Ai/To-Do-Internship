@@ -19,7 +19,8 @@ Follow the instruction below step by step.
 >
 >    > 1. Follow Default Installation
 >    > 2. To make sure Git is Installed Properly
->    >    > **Open Command Prompt**
+>    >    > **Open Command Prompt and Run**
+>    
     ```
     git --version
     ```
