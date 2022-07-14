@@ -20,6 +20,8 @@ Follow the instruction below step by step.
 >    > 1. Follow Default Installation
 >    > 2. To make sure Git is Installed Properly
 >    >    > **Open Command Prompt and Run** `git --version`
+>    >    > The output should be something like this
+>    >    > `git version 2.35.1.windows.2`
 ## Logging in
 
 **_Log in to the following Application/Website (Create an account if you haven't yet)_**
