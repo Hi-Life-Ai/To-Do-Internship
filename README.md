@@ -39,8 +39,8 @@ Make sure to **ADD a README File.**
 
 Follow the next steps in you local Command Prompt
 
-> 1. To Navigate to My Documents
->Run `cd Documents`
+> To Navigate to My Documents
+> Run `cd Documents`
 > 2. To view the file and folder in the Directory
 > Run `dir`
 > 3. Make sure there is no folder/directory already called `GIT-Test`.
