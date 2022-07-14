@@ -17,8 +17,10 @@ Follow the instruction below step by step.
 >
 > 3. Git **_(free and open source distributed version control system software)_**
 >
->    > Follow Default Installation
->    > To make sure Git is Installed Properly, **Open Command Prompt**
+>    > 1. Follow Default Installation
+>    > 2. To make sure Git is Installed Properly
+>    >    > **Open Command Prompt**
+>    >  git --version
 
 ## Logging in
 
