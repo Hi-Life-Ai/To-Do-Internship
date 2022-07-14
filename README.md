@@ -39,13 +39,14 @@ Make sure to **ADD a README File.**
 
 Follow the next steps in you local Command Prompt
 
-> 1. To Navigate to My Documents
+> 1. To Navigate to My Documents,
 > Run `cd Documents`
-> 2. To view the file and folder in the Directory
+> 2. To view the file and folder in the Directory,
 > Run `dir`
 > 3. Make sure there is no folder/directory already called `GIT-Test`.
-> 4. Now, to Clone the Repo to your local machine using the HTTPS Link provided in your GitHub Repo
+> 4. Now, to Clone the Repo to your local machine using the HTTPS Link provided in your GitHub Repo,
 > Run `git clone "your HTTPS repo link"`
-> 5. To Navigate to the Repo in local Machine
+> 5. To Navigate to the Repo in local Machine,
 > Run `cd GIT-Test`
-> Now to open
+> Now to open the Repo in Visual Studio Code,
+> Run `code .`
