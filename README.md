@@ -65,6 +65,7 @@ Main resource page - https://www.w3schools.com/html/default.asp
 
 ## Task 1 - 15 July 2022
 
+### Part 1
 > 1. Create a Repo called `Internship-hilifeai`
 > 2. Clone the Repo using `Git Clone`
 > 3. Navigate to the Repo in the Command Prompt using `cd Internship-hilifeai`
@@ -72,7 +73,9 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 5. Edit the README.md file and add **_Task 1 in the Internship at HiLife.Ai_**
 > 6. Commit with **_Update README File_** as the commit message
 > 7. Push/Sync Changes to the Repo
-> 8. Create a new folder `TASK 1` in the REPO using VS Code
+### Part 2
+
+> 8. Create a new folder `TASK 1` in the repo using VS Code
 > 9. Create new HTML file `task1.html` inside the `TASK 1` folder
 > 10. Commit with **_Added task 1_** as the commit message
 > 11. Edit the HTML file and add a title `TASK 1`
