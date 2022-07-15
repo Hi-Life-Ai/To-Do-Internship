@@ -57,5 +57,18 @@ Go to your Command Prompt and Run the Following commands
 
     git config --global user.name "Your GitHub User Name"
 
-
     git config --global user.email "Your email Address"
+
+# Introduction to HTML
+
+Main resource page - https://www.w3schools.com/html/default.asp
+
+## Task 1
+
+> 1. Create a Repo called `Internship-hilifeai`
+> 2. Clone the Repo using `Git Clone`
+> 3. Navigate to the Repo in the Command Prompt using `cd Internship-hilifeai`
+> 4. Open VS Code in the Repo using `code .`
+> 5. Edit the README.md file and add **_"Task 1 in the Internship at HiLife.Ai"_**
+> 6. Commit with **_"Update README File"_** as the commit message
+> 7. Push/Sync Changes to the Repo
