@@ -69,6 +69,6 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 2. Clone the Repo using `Git Clone`
 > 3. Navigate to the Repo in the Command Prompt using `cd Internship-hilifeai`
 > 4. Open VS Code in the Repo using `code .`
-> 5. Edit the README.md file and add **_"Task 1 in the Internship at HiLife.Ai"_**
-> 6. Commit with **_"Update README File"_** as the commit message
+> 5. Edit the README.md file and add **_Task 1 in the Internship at HiLife.Ai_**
+> 6. Commit with **_Update README File_** as the commit message
 > 7. Push/Sync Changes to the Repo
