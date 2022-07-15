@@ -72,3 +72,10 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 5. Edit the README.md file and add **_Task 1 in the Internship at HiLife.Ai_**
 > 6. Commit with **_Update README File_** as the commit message
 > 7. Push/Sync Changes to the Repo
+> 8. Create a new folder `TASK 1` in the REPO using VS Code
+> 9. Create new HTML file `task1.html` inside the `TASK 1` folder
+> 10. Commit with **_Added task 1_** as the commit message
+> 11. Edit the HTML file and add a title `TASK 1`
+> 12. Commit with `ADDED Title to Task 1` as the commit message
+> 13. Push/Sync Changes to the Repo
+> 14. Make sure the changes reflect in your GitHub Repo and report to Danny!
