@@ -85,12 +85,12 @@ Main resource page - https://www.w3schools.com/html/default.asp
 
 ## Task 2 - 16 July 2022
 
-> Use the task1.html file to try out tables, links and other basic html tags.
-> Don't forget to commit and push your changes to GitHub
+> 1. Use the task1.html file to try out tables, links and other basic html tags.
+> 2. Don't forget to commit and push your changes to GitHub
 
 ## Task 3 - 18 July 2022
 
-> Create a new folder `Task 3` in the Internshup-Hilifeai Repo
-> Add `task3.html` and `style.css` to the folder `Task 3`
-> Try out all the CSS elements using an External CSS method
-> Don't forget to commit and push your changes to GitHub
+> 1. Create a new folder `Task 3` in the Internshup-Hilifeai Repo
+> 2. Add `task3.html` and `style.css` to the folder `Task 3`
+> 3. Try out all the CSS elements using an External CSS method
+> 4. Don't forget to commit and push your changes to GitHub
