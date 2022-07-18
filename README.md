@@ -82,3 +82,15 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 12. Commit with `ADDED Title to Task 1` as the commit message
 > 13. Push/Sync Changes to the Repo
 > 14. Make sure the changes reflect in your GitHub Repo and report to Danny!
+
+## Task 2 - 16 July 2022
+
+> Use the task1.html file to try out tables, links and other basic html tags.
+> Don't forget to commit and push your changes to GitHub
+
+## Task 3 - 18 July 2022
+
+> Create a new folder `Task 3` in the Internshup-Hilifeai Repo
+> Add `task3.html` and `style.css` to the folder `Task 3`
+> Try out all the CSS elements using an External CSS method
+> Don't forget to commit and push your changes to GitHub
