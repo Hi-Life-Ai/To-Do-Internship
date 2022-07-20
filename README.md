@@ -96,7 +96,7 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 4. Don't forget to commit and push your changes to GitHub
 
 
-## Task 4 - 20/07/2022 [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+## Task 4 - 20/07/2022 - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 
 > 1. Try out Bootstrap CSS from W3Schools
 > 2. Make sure to commit your changes with proper commit messages
