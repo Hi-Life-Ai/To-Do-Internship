@@ -94,3 +94,10 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 2. Add `task3.html` and `style.css` to the folder `Task 3`
 > 3. Try out all the CSS elements using an External CSS method
 > 4. Don't forget to commit and push your changes to GitHub
+
+
+## Task 4 - 20/07/2022 [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+
+> 1. Try out Bootstrap CSS from W3Schools
+> 2. Make sure to commit your changes with proper commit messages
+> 3. Make sure to push/sync changes to GitHub
