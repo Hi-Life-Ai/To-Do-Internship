@@ -109,3 +109,14 @@ Main resource page - https://www.w3schools.com/html/default.asp
 ![](https://themes.getbootstrap.com/wp-content/uploads/2021/01/Geeks-Bootstrap-5-Template-2-1200x900.jpg)
 > 3. Make sure to commit your changes with proper commit messages
 > 4. Make sure to push/sync changes to Github
+
+# Building your Portfolio Website
+
+> 1. Create a github.io Repo in your GitHub Account. (Ex: GitHub username is Danny, your repo should be danny.github.io)
+> 2. Clone the Repo to your local machine using `git clone`
+> 3. Change directory to your repo in the local machine
+> 4. Start creating your portfolio page
+> 5. Once your done with basic design, Go to settings in your Repo page on GitHub
+> 6. Go to `Pages` under the Code and automation section
+> 7. Under the source, select your `Main Branch` and Save.
+> 8. Your Personal Portfolio should be hosted in the github.io URL
