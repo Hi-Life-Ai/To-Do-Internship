@@ -120,3 +120,5 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 6. Go to `Pages` under the Code and automation section
 > 7. Under the source, select your `Main Branch` and Save.
 > 8. Your Personal Portfolio should be hosted in the github.io URL
+
+# Happy Coding Y'all!
