@@ -117,7 +117,7 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 2. Clone the Repo to your local machine using `git clone`
 > 3. Change directory to your repo in the local machine
 > 4. Start creating your portfolio page
-> 5. Once your done with basic design, Go to settings in your Repo page on GitHub
+> 5. Once your done with basic design, Go to settings in your Repo page on GitHub.
 > 6. Go to `Pages` under the Code and automation section
 > 7. Under the source, select your `Main Branch` and Save.
 > 8. Your Personal Portfolio should be hosted in the github.io URL
